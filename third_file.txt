@@ -1,1 +1,1 @@
-learning git
+This is the third tutorial of learning git.
